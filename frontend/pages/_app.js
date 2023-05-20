@@ -1,4 +1,4 @@
-import "@/styles/globals.css";
+import "../styles/globals.css";
 import { configureChains, sepolia, WagmiConfig, createClient } from "wagmi";
 import { publicProvider } from "wagmi/providers/public";
 
